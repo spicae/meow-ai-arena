@@ -1,0 +1,11 @@
+{
+  "author": "spicae",
+  "github": "spicae",
+  "name": "loop-capture",
+  "description": "Loop-planner that captures territory with an enemy-arrival safety model and opportunistic trail cutting.",
+  "written_by": "ai",
+  "model": "deepseek-v4-flash",
+  "tool": "XAgent",
+  "based_on": "",
+  "license": "MIT"
+}
